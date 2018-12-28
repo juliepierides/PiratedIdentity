@@ -170,14 +170,14 @@ Fossil Falls - Super Mario Odyssey (https://www.youtube.com/watch?v=P8cKiffNad0&
 - Lose screen music
 Somnus Instrumental - Final Fantasy XV (https://www.youtube.com/watch?v=THht1RqCh8U )
 
--Enemy hurt sound effect (https://www.youtube.com/watch?v=N677YtKuq-k&t=20s)
--Enemy death sound (https://www.youtube.com/watch?v=2zB4vMz5sVQ)
--Player hurt sound (https://www.youtube.com/watch?v=NuwzTYljyJg) (last second)
--Health room healing sound (https://www.youtube.com/watch?v=BXfk4QtMkG8)
--Collision sound: https://www.youtube.com/watch?v=RGyfbqD81uM (first second)
--Falling sound (taken from free online sound database)
--Player attacking sound (taken from free online sound database)
--End room door opening (taken from free online sound database)
+- Enemy hurt sound effect (https://www.youtube.com/watch?v=N677YtKuq-k&t=20s)
+- Enemy death sound (https://www.youtube.com/watch?v=2zB4vMz5sVQ)
+- Player hurt sound (https://www.youtube.com/watch?v=NuwzTYljyJg) (last second)
+- Health room healing sound (https://www.youtube.com/watch?v=BXfk4QtMkG8)
+- Collision sound: https://www.youtube.com/watch?v=RGyfbqD81uM (first second)
+- Falling sound (taken from free online sound database)
+- Player attacking sound (taken from free online sound database)
+- End room door opening (taken from free online sound database)
 
 ## Assets from Asset Store:
 	-Crates and Barrels Pack Volume 1 - Free Version
