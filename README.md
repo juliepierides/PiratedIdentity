@@ -2,7 +2,7 @@
 ## Summary
 Pirated Identity is  a 3D game that can be defined as a Game Feel game. It is a third person action/shooter with an explorable world and story.
 ## Goal
-The game has a clearly defined, achievable objective/goal. The player’s object is to search for their reflection and match their color. This is hinted during the cutscene, and also in the book instructions in the starting room. The book is placed in one of the corners of the starting room indicated by a ring of blue light. Press the spacebar to read the book. If the player reaches the reflection door without a key, a popup will indicate they need to find a key.
+The game has a clearly defined, achievable objective/goal. The player’s object is to search for their identity and match its color. This is hinted at during the cutscene, and also in the book instructions in the starting room. The book is placed in one of the corners of the starting room indicated by a ring of blue light. Press the spacebar to read the book. If the player reaches the reflection door without a key, a popup will indicate they need to find a key.
 ## Video
 Click to watch
 [![Click to watch](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentity_image.png)](https://drive.google.com/file/d/1-5gzjvhKzDkH8eGhugdNW5vOddWQmVqV/view?usp=sharing)
