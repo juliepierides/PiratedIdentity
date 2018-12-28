@@ -1,4 +1,8 @@
 # Pirated Identity
+## Summary
+Pirated Identity is  a 3D game that can be defined as a Game Feel game. It is a third person action/shooter with an explorable world and story.
+## Goal
+The game has a clearly defined, achievable objective/goal. The player’s object is to search for their reflection and match their color. This is hinted during the cutscene, and also in the book instructions in the starting room. The book is placed in one of the corners of the starting room indicated by a ring of blue light. Press the spacebar to read the book. If the player reaches the reflection door without a key, a popup will indicate they need to find a key.
 ## Video
 Click to watch
 [![Click to watch](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentity_image.png)](https://drive.google.com/file/d/1-5gzjvhKzDkH8eGhugdNW5vOddWQmVqV/view?usp=sharing)
@@ -10,13 +14,13 @@ Pirates stole your identity and now you don’t remember who you are. You can ki
 
 ## Interesting Mechanics
 Defeating an enemy of a certain color adds that color to the player’s color bar. The player changes her color based on the bar that has the most points. Minibosses have no color but will drop memory hints to what your reflection color will be.  
-![colors](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityColorChange_image.png)  
+![color change](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityColorChange_image.png)  
 
 There is a switch in one of the rooms that allows the player to shift the position of the bridges that connect the rooms. This makes the player have to more carefully pay attention to the route that she wants to take in order to get to her goal.  
-![colors](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityMap_image.png)  
+![map](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityMap_image.png)  
 
 There is a boat that constantly loops around the map. The player can ride it as a sort of shortcut to get around the map but must think about the route that she wants to take first.  
-![colors](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityBoat_image.png)
+![boat](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityBoat_image.png)
 ## Contributors
 - Julie Pierides
 - John Ho
@@ -36,14 +40,11 @@ Inside the Build folder, start up the game by double clicking “PiratedIdentity
 
 - Below is our controls book detailing the objective and controls of the game:
 
+![book](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityBook_image.png)
 
 
 
 
-## Summary
-Pirated Identity is  a 3D game that can be defined as a Game Feel game. It is a third person action/shooter with an explorable world and story.
-## Goal
-The game has a clearly defined, achievable objective/goal. The player’s object is to search for their reflection and match their color. This is hinted during the cutscene, and also in the book instructions in the starting room. The book is placed in one of the corners of the starting room indicated by a ring of blue light. Press the spacebar to read the book. If the player reaches the reflection door without a key, a popup will indicate they need to find a key.
 ## Components
 - Our game has appeal because there are no glitches, no way to easily escape the confines of the game world, the player does not get stuck, and the game is very stable
 - Does not use tutorial characters, nor does it use a complete prepackages asset. Instead, we created a well animated character via mecanim that blends between different animations based on the player’s inputs. The blend tree has a combination of walk, run, and turn animations based on the x and y variables of its motion. This allows the player to walk in short distances but run for longer. The base layer allows the character to move and fall via root motion. You can see these animations by using the WASD keys. There are additional layers for extra animation while moving. These include attacking, getting hurt, and a healing animation. You can see the attacking animation by pressing the left mouse key. You can see the hurt animation when the enemy comes to close to the player. Lastly, you can see the healing animation when you enter the health room. The animations are well-responsive and very smooth. 
