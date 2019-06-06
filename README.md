@@ -26,6 +26,7 @@ There is a boat that constantly loops around the map. The player can ride it as 
 <p align="center">
   <img src="https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityBoat_image.png">
 </p>
+
 ## Contributors
 - Julie Pierides
 - John Ho
