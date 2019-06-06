@@ -14,14 +14,18 @@ Pirates stole your identity and now you don’t remember who you are. You can ki
 </p>
 
 ## Interesting Mechanics
-Defeating an enemy of a certain color adds that color to the player’s color bar. The player changes her color based on the bar that has the most points. Minibosses have no color but will drop memory hints to what your reflection color will be.  
-![color change](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityColorChange_image.png)  
+Defeating an enemy of a certain color adds that color to the player’s color bar. The player changes her color based on the bar that has the most points. Minibosses have no color but will drop memory hints to what your reflection color will be. 
+<p align="center">
+  <img src="https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityColorChange_image.png">
+</p>
 
 There is a switch in one of the rooms that allows the player to shift the position of the bridges that connect the rooms. This makes the player have to more carefully pay attention to the route that she wants to take in order to get to her goal.  
 ![map](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityMap_image.png)  
 
 There is a boat that constantly loops around the map. The player can ride it as a sort of shortcut to get around the map but must think about the route that she wants to take first.  
-![boat](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityBoat_image.png)
+<p align="center">
+  <img src="https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityBoat_image.png">
+</p>
 ## Contributors
 - Julie Pierides
 - John Ho
