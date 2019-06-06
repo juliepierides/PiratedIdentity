@@ -9,8 +9,9 @@ Click to watch
 
 ## Story
 Pirates stole your identity and now you don’t remember who you are. You can kill enemies to gain their respective color and transform into a different form. With the form you think is the correct one, you will have to find your captured identity.
-
-![colors](https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityColors_image.png)
+<p align="center">
+  <img src="https://github.com/juliepierides/PiratedIdentity/blob/master/piratedIdentityColors_image.png">
+</p>
 
 ## Interesting Mechanics
 Defeating an enemy of a certain color adds that color to the player’s color bar. The player changes her color based on the bar that has the most points. Minibosses have no color but will drop memory hints to what your reflection color will be.  
